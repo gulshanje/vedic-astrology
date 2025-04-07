@@ -1,0 +1,11 @@
+astral==3.2
+certifi==2025.1.31
+DateTime==5.5
+ephem==4.2
+jplephem==2.22
+numpy==2.2.3
+pytz==2025.1
+sgp4==2.24
+skyfield==1.50
+tzdata==2025.1
+zope.interface==7.2
