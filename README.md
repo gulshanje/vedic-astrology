@@ -1,4 +1,3 @@
-# add a readme file of jyotish engine for github
 
 # Jyotish Engine
 
